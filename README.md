@@ -9,7 +9,7 @@ After cloning this repo, navigate to the `src` folder, then type
 
 ```
 $ python alieninvasion.py
-
-## Note on environment
+```
+## A note on environment
 
 I established parameters using Windows 10 and a wide LCD monitor. These probably wont be suitable for other environments and can be fiddled with in `settings.py` and the `_create_alien` function.
