@@ -1,6 +1,5 @@
 import pygame
 from os.path import dirname, abspath, join
-
 #Parent directory
 path = dirname(dirname(abspath(__file__)))
 
@@ -36,5 +35,5 @@ class Ship:
 
 
 	def blitme(self):
-		"""Draw ship at new loaction"""
+		"""Draw ship at new location"""
 		self.screen.blit(self.image, self.rect)
