@@ -12,4 +12,4 @@ $ python alieninvasion.py
 ```
 ## A note on environment
 
-I established parameters using Windows 10 and a wide LCD monitor. These probably wont be suitable for other environments and can be fiddled with in `settings.py` and the `_create_alien` function.
+I established game parameters using Windows 10 and a wide LCD monitor. These probably wont be suitable for other environments and can be fiddled with in `settings.py` and the `_create_alien` function. The dependencies are `pygame` and Python3.
